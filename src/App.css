@@ -1,0 +1,7 @@
+/* Stile classico pulito per le caselle */
+.classic-board square.light {
+  background-color: #f0d9b5 !important;
+}
+.classic-board square.dark {
+  background-color: #b58863 !important;
+}
